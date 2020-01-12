@@ -1,0 +1,17 @@
+1) Install virtual environment
+
+command: pip install virtualenv
+
+2) Create a virtual environment
+
+command : virtualenv venv
+
+3)Activate virtual environment
+
+command: venv/Scripts/activate
+
+4) Download any driver like chrome driver and copy it into Scripts.
+
+5) Now run python manage.py test
+
+
